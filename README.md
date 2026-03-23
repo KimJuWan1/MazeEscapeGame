@@ -1,4 +1,5 @@
 # MazeEscapeGame
+https://github.com/KimJuWan1/MazeEscapeGame/issues/1#issue-4121989759https://github.com/KimJuWan1/MazeEscapeGame/issues/1#issue-4121989759
 
 - start 화면
 
