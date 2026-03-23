@@ -4,7 +4,7 @@
 
 - start 화면
 
-![image.png](attachment:e0a43bc4-8003-482f-a28a-b0af6221d1b6:image.png)
+> <img alt="Image" width="1038" height="1082" src="https://private-user-images.githubusercontent.com/211772476/567846377-6a45b744-2591-4b4d-926e-8ceb8c5785cf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQyODI2ODYsIm5iZiI6MTc3NDI4MjM4NiwicGF0aCI6Ii8yMTE3NzI0NzYvNTY3ODQ2Mzc3LTZhNDViNzQ0LTI1OTEtNGI0ZC05MjZlLThjZWI4YzU3ODVjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyM1QxNjEzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMWFiMDg5NDRmZjE4NDc5MGNlYTQyNmI5MWNkMjE2YjExZGNlODYyMGE2MTQyNWI5ZmQyYThmZmQxYWI1MzVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TO9xClQJlXRQtbpuHstqLw67iGnQe34BFzRXyBI3fT4">
 
 - Enter누르고 게임 시작 시 player(기사)가 소환되고 그 주변 4칸 범주의 원 범위만 시야확인가능
 - 왼쪽 상단의 제한시간 안에 탈출을 해야지 성공/ 탈출하지 못하면 실패
